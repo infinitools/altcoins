@@ -1,4 +1,6 @@
 Bitcoin Core integration/staging tree
+
+0.9.3
 =====================================
 
 Copyright (c) 2009-2014 Bitcoin Core Developers
